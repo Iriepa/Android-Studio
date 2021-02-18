@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579177376976",
+    "project_id": "davidiriepaapp",
+    "storage_bucket": "davidiriepaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579177376976:android:ee602874edcee670bd82d5",
+        "android_client_info": {
+          "package_name": "com.example.davidiriepaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579177376976-aotj7fdnllqdbf61tlpncosmf68n6a3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHgbQ6IW00Ksv-yROEaRie04xQFBHZs3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579177376976-aotj7fdnllqdbf61tlpncosmf68n6a3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
